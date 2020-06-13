@@ -1,9 +1,9 @@
 # Coderantine : C++ Programming
 This is a 7 day crash course of C++ Programming which will cover almost all the basics required to kickstart C++ programming.
 
-![logo](coderantine.jpg)
+<img src="Coderantine.jpg" alt="Logo" width="350" height="350">
 
-# Course Structure
+## Course Structure
 DAY | Topics Covered 
 --- | --- 
 1 | Introduction to C++ programming, Input , Output 
